@@ -1,6 +1,6 @@
 # Omnifood
 
-A dummy one-page marketing website for a tech-centred startup company selling monthly food subscription.
+A dummy one-page marketing website for a tech-centered startup selling monthly food subscriptions.
 
 The project is built using:
 
