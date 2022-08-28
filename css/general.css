@@ -30,7 +30,9 @@ Pragraph Default: 1.6
 - Shades: #cf711f
 - Accents:
 - Greys
-#555 / #333
+#6f6f6f (Lightest grey allowed on #fdf2e9)
+#555
+#333
 
 --- 05 SHADOWS
 
@@ -96,7 +98,7 @@ body {
 }
 
 .heading-primary,
-.heading-secondry,
+.heading-secondary,
 .heading-tertiary {
   font-weight: 700;
   color: #333;
@@ -109,7 +111,7 @@ body {
   margin-bottom: 3.2rem;
 }
 
-.heading-secondry {
+.heading-secondary {
   font-size: 4.4rem;
   line-height: 1.2;
   margin-bottom: 9.6rem;

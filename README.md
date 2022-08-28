@@ -8,5 +8,6 @@ The project is built using:
 - CSS
 - CSS Flexbox
 - CSS Grid
+- CSS Animations
 
 Live URL: https://maverickapekshit.github.io/omnifood/
