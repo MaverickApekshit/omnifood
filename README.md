@@ -4,10 +4,11 @@ A dummy one-page marketing website for a tech-centered startup selling monthly f
 
 The project is built using:
 
-- HTML
-- CSS
+- HTML 5
+- CSS 3
 - CSS Flexbox
 - CSS Grid
 - CSS Animations
+- CSS Media Queries
 
 Live URL: https://maverickapekshit.github.io/omnifood/
