@@ -10,5 +10,6 @@ The project is built using:
 - CSS Grid
 - CSS Animations
 - CSS Media Queries
+- JavaScript
 
 Live URL: https://maverickapekshit.github.io/omnifood/
