@@ -12,4 +12,4 @@ The project is built using:
 - CSS Media Queries
 - JavaScript
 
-Live URL: https://maverickapekshit.github.io/omnifood/
+Live URL: https://omni-food-demo.netlify.app/
